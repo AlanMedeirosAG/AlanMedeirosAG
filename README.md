@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/AlanMedeirosAG">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMedeirosAG&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy"height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanMedeirosAG&show_icons=true&theme=dark"&include_all_commits=true&count_private=true"/>
+<img loading="lazy"height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanMedeirosAG)](https://github.com/AlanMedeirosAG/github-readme-stats"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>        
   <img align="center" alt="Alan-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 
 </div>
