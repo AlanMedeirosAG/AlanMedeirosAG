@@ -3,10 +3,11 @@
 <div>
 <a href="https://github.com/AlanMedeirosAG">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMedeirosAG&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy"height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanMedeirosAG)](https://github.com/AlanMedeirosAG/github-readme-stats"/>
+<img loading="lazy"height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanMedeirosAG&https://github.com/AlanMedeirosAG/github-readmestats&theme=dark"/>
+  
 </div>
 
-<div style="display: inline_block"><br>
+<div display: flex><br>
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
