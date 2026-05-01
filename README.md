@@ -84,6 +84,6 @@ Estou sempre aberto a aprender novas ferramentas, frameworks e boas práticas de
 ## 🌎 Contato
 
 - 💼 *[LinkedIn](https://www.linkedin.com/in/alan-medeiros-803b7326a/)*
-- 📧 [*(Email)*](alanmedeiros707@gmail.com)
+- 📧 [*Email*](alanmedeiros707@gmail.com)
 
 ---
