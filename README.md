@@ -1,21 +1,89 @@
-### Hi there 👋
+# 👨‍💻 Alan Medeiros
 
-<div>
-<a href="https://github.com/AlanMedeirosAG">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMedeirosAG&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy"height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanMedeirosAG&https://github.com/AlanMedeirosAG/github-readmestats&theme=dark"/>
-  
-</div>
+**Fullstack Developer · Web Systems**
 
-<div display: flex><br>
-  <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Alan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>        
-  <img align="center" alt="Alan-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+---
 
-</div>
+## 🚀 Sobre mim
+
+Sou desenvolvedor **fullstack** com experiência acadêmica no desenvolvimento de **sistemas web**, atuando tanto no front-end quanto no back-end.
+
+Tenho contato com tecnologias como **HTML, CSS, JavaScript, Node.js e Java**, desenvolvendo aplicações para projetos universitários e também para meu portfólio pessoal.
+
+Atualmente, atuo como **desenvolvedor voluntário no NUTES - UEPB (Unidade EMBRAPII)**, utilizando **C#** no desenvolvimento de soluções para o Laborátorio de Usabilidade e Fatores Humano (LUFH)
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Ciência da Computação** — UEPB *(previsão: dez/2026)*  
+Ênfase em Engenharia de Software e desenvolvimento web
+
+---
+
+## ⚙️ Stack Técnica
+
+### 🌐 Front-end
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### 🧠 Back-end
+- Node.js  
+- Java  
+- C# (.NET)
+
+### 🗄️ Banco de Dados
+- SQL  
+
+### 📱 Mobile & Outros
+- Dart  
+- Flutter  
+- Python  
+
+---
+
+## 💼 Experiência
+
+### 🔷 Desenvolvedor Voluntário — NUTES / UEPB *(Atual)*
+
+- Desenvolvimento de aplicações utilizando **C# (.NET)**
+
+
+---
+
+## 📂 Projetos
+
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| []() |  |  |
+| []() |   |  |
+| []() |  |  |
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanMedeirosAG&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMedeirosAG&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Busco me desenvolver continuamente como desenvolvedor, ampliando meus conhecimentos e me especializando em diferentes tecnologias do desenvolvimento web.
+
+Estou sempre aberto a aprender novas ferramentas, frameworks e boas práticas de engenharia de software.
+
+---
+
+## 🌎 Contato
+
+- 💼 LinkedIn: *(adicione aqui)*
+- 📧 Email: *(adicione aqui)*
+
+---
