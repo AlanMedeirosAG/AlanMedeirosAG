@@ -14,6 +14,15 @@ Tenho contato com tecnologias como **HTML, CSS, JavaScript, Node.js e Java**, de
 
 Atualmente, atuo como **desenvolvedor voluntário no NUTES - UEPB (Unidade EMBRAPII)**, utilizando **C#** no desenvolvimento de soluções para o Laborátorio de Usabilidade e Fatores Humanos (LUFH)
 
+<br><br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-medeiros-803b7326a/)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanmedeiros707@gmail.com)
+
+</div>
+
 <br>
 
 
@@ -67,6 +76,7 @@ Atualmente, atuo como **desenvolvedor voluntário no NUTES - UEPB (Unidade EMBRA
 ### 🔷 Desenvolvedor Voluntário — NUTES / UEPB *(Atual)*
 
 - Desenvolvimento de aplicações utilizando **C# (.NET)**
+- Levantamento de requisitos e modelagem de sistema
 
 <br>
 
@@ -76,9 +86,9 @@ Atualmente, atuo como **desenvolvedor voluntário no NUTES - UEPB (Unidade EMBRA
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| []() |  |  |
-| []() |   |  |
-| []() |  |  |
+| [**SistemaOdonto**]() | Sistema de gestão odontológica com ORM | C# · .NET · Entity Framework |
+| [**Weather-application**]() | Aplicação que fornece informações sobre o clima |  HTML · CSS· Javascript · Api OpenWeatherMap/Unsplash/FlagsApi  |
+| [**assistente-de-metagame**](https://github.com/AlanMedeirosAG/assistente-de-metagame) | Aplicação que fornece informações atualizadas sobre o meta de jogos  |  HTML · CSS· Javascript · Api Google Gemini  |
 
 <br>
 
@@ -100,11 +110,12 @@ Busco me desenvolver continuamente como desenvolvedor, ampliando meus conhecimen
 
 Estou sempre aberto a aprender novas ferramentas, frameworks e boas práticas de engenharia de software.
 
-<br>
+<br><br>
 
-## 🌎 Contatos
 
-- 💼 *[LinkedIn](https://www.linkedin.com/in/alan-medeiros-803b7326a/)*
-- 📧 [*Email*](alanmedeiros707@gmail.com)
+<div align="center">
 
+*"Fear is the mind-killer"*
+
+</div>
 
